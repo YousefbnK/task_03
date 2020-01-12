@@ -29,7 +29,7 @@ def restaurant_detail(request):
 
     	"my_object": {
 
-    		"restaraunt_name": "Katsuya",
+    		"restaurant_name": "Katsuya",
     		"food_type": "Japanese"
     	}
 
